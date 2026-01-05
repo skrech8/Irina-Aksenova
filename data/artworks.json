@@ -1,0 +1,254 @@
+[
+  {
+    "id": "IA-001",
+    "title": "Pastel Morning",
+    "year": 2023,
+    "medium": "Watercolor on paper",
+    "size_cm": "50 × 40 cm",
+    "size_in": "19.7 × 15.7 in",
+    "collection": "Portraits",
+    "availability": "Available",
+    "price": "Price on request",
+    "price_usd": null,
+    "slug": "pastel-morning",
+    "hero_note": "Pastel-toned watercolor with a calm, luminous atmosphere.",
+    "image": "https://source.unsplash.com/featured/?watercolor,portrait,painting,pastel&sig=1",
+    "gallery": [
+      "https://source.unsplash.com/featured/?watercolor,portrait,painting,pastel&sig=1",
+      "https://source.unsplash.com/featured/?watercolor,painting,texture&sig=31",
+      "https://source.unsplash.com/featured/?pastel,painting,detail&sig=61",
+      "https://source.unsplash.com/featured/?watercolor,nature,painting&sig=91"
+    ]
+  },
+  {
+    "id": "IA-002",
+    "title": "Quiet Portrait",
+    "year": 2024,
+    "medium": "Watercolor on paper",
+    "size_cm": "50 × 40 cm",
+    "size_in": "19.7 × 15.7 in",
+    "collection": "Portraits",
+    "availability": "Available",
+    "price": "Price on request",
+    "price_usd": null,
+    "slug": "quiet-portrait",
+    "hero_note": "Pastel-toned watercolor with a calm, luminous atmosphere.",
+    "image": "https://source.unsplash.com/featured/?watercolor,portrait,painting,pastel&sig=2",
+    "gallery": [
+      "https://source.unsplash.com/featured/?watercolor,portrait,painting,pastel&sig=2",
+      "https://source.unsplash.com/featured/?watercolor,painting,texture&sig=32",
+      "https://source.unsplash.com/featured/?pastel,painting,detail&sig=62",
+      "https://source.unsplash.com/featured/?watercolor,nature,painting&sig=92"
+    ]
+  },
+  {
+    "id": "IA-003",
+    "title": "Spring Light",
+    "year": 2023,
+    "medium": "Watercolor on paper",
+    "size_cm": "70 × 50 cm",
+    "size_in": "27.6 × 19.7 in",
+    "collection": "Nature",
+    "availability": "Available",
+    "price": "Price on request",
+    "price_usd": null,
+    "slug": "spring-light",
+    "hero_note": "Pastel-toned watercolor with a calm, luminous atmosphere.",
+    "image": "https://source.unsplash.com/featured/?watercolor,pastel,painting,nature&sig=3",
+    "gallery": [
+      "https://source.unsplash.com/featured/?watercolor,pastel,painting,nature&sig=3",
+      "https://source.unsplash.com/featured/?watercolor,painting,texture&sig=33",
+      "https://source.unsplash.com/featured/?pastel,painting,detail&sig=63",
+      "https://source.unsplash.com/featured/?watercolor,nature,painting&sig=93"
+    ]
+  },
+  {
+    "id": "IA-004",
+    "title": "Blue Silence",
+    "year": 2024,
+    "medium": "Watercolor on paper",
+    "size_cm": "50 × 40 cm",
+    "size_in": "19.7 × 15.7 in",
+    "collection": "Nature",
+    "availability": "On request",
+    "price": "Price on request",
+    "price_usd": null,
+    "slug": "blue-silence",
+    "hero_note": "Pastel-toned watercolor with a calm, luminous atmosphere.",
+    "image": "https://source.unsplash.com/featured/?watercolor,pastel,painting,nature&sig=4",
+    "gallery": [
+      "https://source.unsplash.com/featured/?watercolor,pastel,painting,nature&sig=4",
+      "https://source.unsplash.com/featured/?watercolor,painting,texture&sig=34",
+      "https://source.unsplash.com/featured/?pastel,painting,detail&sig=64",
+      "https://source.unsplash.com/featured/?watercolor,nature,painting&sig=94"
+    ]
+  },
+  {
+    "id": "IA-005",
+    "title": "Garden Study",
+    "year": 2023,
+    "medium": "Watercolor on paper",
+    "size_cm": "50 × 40 cm",
+    "size_in": "19.7 × 15.7 in",
+    "collection": "Nature",
+    "availability": "Available",
+    "price": "Price on request",
+    "price_usd": 1950,
+    "slug": "garden-study",
+    "hero_note": "Pastel-toned watercolor with a calm, luminous atmosphere.",
+    "image": "https://source.unsplash.com/featured/?watercolor,pastel,painting,nature&sig=5",
+    "gallery": [
+      "https://source.unsplash.com/featured/?watercolor,pastel,painting,nature&sig=5",
+      "https://source.unsplash.com/featured/?watercolor,painting,texture&sig=35",
+      "https://source.unsplash.com/featured/?pastel,painting,detail&sig=65",
+      "https://source.unsplash.com/featured/?watercolor,nature,painting&sig=95"
+    ]
+  },
+  {
+    "id": "IA-006",
+    "title": "Soft Profile",
+    "year": 2024,
+    "medium": "Watercolor on paper",
+    "size_cm": "70 × 50 cm",
+    "size_in": "27.6 × 19.7 in",
+    "collection": "Portraits",
+    "availability": "Available",
+    "price": "Price on request",
+    "price_usd": null,
+    "slug": "soft-profile",
+    "hero_note": "Pastel-toned watercolor with a calm, luminous atmosphere.",
+    "image": "https://source.unsplash.com/featured/?watercolor,portrait,painting,pastel&sig=6",
+    "gallery": [
+      "https://source.unsplash.com/featured/?watercolor,portrait,painting,pastel&sig=6",
+      "https://source.unsplash.com/featured/?watercolor,painting,texture&sig=36",
+      "https://source.unsplash.com/featured/?pastel,painting,detail&sig=66",
+      "https://source.unsplash.com/featured/?watercolor,nature,painting&sig=96"
+    ]
+  },
+  {
+    "id": "IA-007",
+    "title": "Sunlit Path",
+    "year": 2023,
+    "medium": "Watercolor on paper",
+    "size_cm": "50 × 40 cm",
+    "size_in": "19.7 × 15.7 in",
+    "collection": "Nature",
+    "availability": "Available",
+    "price": "Price on request",
+    "price_usd": null,
+    "slug": "sunlit-path",
+    "hero_note": "Pastel-toned watercolor with a calm, luminous atmosphere.",
+    "image": "https://source.unsplash.com/featured/?watercolor,pastel,painting,nature&sig=7",
+    "gallery": [
+      "https://source.unsplash.com/featured/?watercolor,pastel,painting,nature&sig=7",
+      "https://source.unsplash.com/featured/?watercolor,painting,texture&sig=37",
+      "https://source.unsplash.com/featured/?pastel,painting,detail&sig=67",
+      "https://source.unsplash.com/featured/?watercolor,nature,painting&sig=97"
+    ]
+  },
+  {
+    "id": "IA-008",
+    "title": "Rose Tones",
+    "year": 2024,
+    "medium": "Watercolor on paper",
+    "size_cm": "50 × 40 cm",
+    "size_in": "19.7 × 15.7 in",
+    "collection": "Pastels",
+    "availability": "On request",
+    "price": "Price on request",
+    "price_usd": null,
+    "slug": "rose-tones",
+    "hero_note": "Pastel-toned watercolor with a calm, luminous atmosphere.",
+    "image": "https://source.unsplash.com/featured/?watercolor,pastel,painting,nature&sig=8",
+    "gallery": [
+      "https://source.unsplash.com/featured/?watercolor,pastel,painting,nature&sig=8",
+      "https://source.unsplash.com/featured/?watercolor,painting,texture&sig=38",
+      "https://source.unsplash.com/featured/?pastel,painting,detail&sig=68",
+      "https://source.unsplash.com/featured/?watercolor,nature,painting&sig=98"
+    ]
+  },
+  {
+    "id": "IA-009",
+    "title": "Mist over River",
+    "year": 2023,
+    "medium": "Watercolor on paper",
+    "size_cm": "70 × 50 cm",
+    "size_in": "27.6 × 19.7 in",
+    "collection": "Nature",
+    "availability": "Available",
+    "price": "Price on request",
+    "price_usd": null,
+    "slug": "mist-over-river",
+    "hero_note": "Pastel-toned watercolor with a calm, luminous atmosphere.",
+    "image": "https://source.unsplash.com/featured/?watercolor,pastel,painting,nature&sig=9",
+    "gallery": [
+      "https://source.unsplash.com/featured/?watercolor,pastel,painting,nature&sig=9",
+      "https://source.unsplash.com/featured/?watercolor,painting,texture&sig=39",
+      "https://source.unsplash.com/featured/?pastel,painting,detail&sig=69",
+      "https://source.unsplash.com/featured/?watercolor,nature,painting&sig=99"
+    ]
+  },
+  {
+    "id": "IA-010",
+    "title": "Warm Gaze",
+    "year": 2024,
+    "medium": "Watercolor on paper",
+    "size_cm": "50 × 40 cm",
+    "size_in": "19.7 × 15.7 in",
+    "collection": "Portraits",
+    "availability": "Available",
+    "price": "Price on request",
+    "price_usd": 2700,
+    "slug": "warm-gaze",
+    "hero_note": "Pastel-toned watercolor with a calm, luminous atmosphere.",
+    "image": "https://source.unsplash.com/featured/?watercolor,portrait,painting,pastel&sig=10",
+    "gallery": [
+      "https://source.unsplash.com/featured/?watercolor,portrait,painting,pastel&sig=10",
+      "https://source.unsplash.com/featured/?watercolor,painting,texture&sig=40",
+      "https://source.unsplash.com/featured/?pastel,painting,detail&sig=70",
+      "https://source.unsplash.com/featured/?watercolor,nature,painting&sig=100"
+    ]
+  },
+  {
+    "id": "IA-011",
+    "title": "Pastel Landscape",
+    "year": 2023,
+    "medium": "Watercolor on paper",
+    "size_cm": "50 × 40 cm",
+    "size_in": "19.7 × 15.7 in",
+    "collection": "Nature",
+    "availability": "Available",
+    "price": "Price on request",
+    "price_usd": null,
+    "slug": "pastel-landscape",
+    "hero_note": "Pastel-toned watercolor with a calm, luminous atmosphere.",
+    "image": "https://source.unsplash.com/featured/?watercolor,pastel,painting,nature&sig=11",
+    "gallery": [
+      "https://source.unsplash.com/featured/?watercolor,pastel,painting,nature&sig=11",
+      "https://source.unsplash.com/featured/?watercolor,painting,texture&sig=41",
+      "https://source.unsplash.com/featured/?pastel,painting,detail&sig=71",
+      "https://source.unsplash.com/featured/?watercolor,nature,painting&sig=101"
+    ]
+  },
+  {
+    "id": "IA-012",
+    "title": "Delicate Bloom",
+    "year": 2024,
+    "medium": "Watercolor on paper",
+    "size_cm": "70 × 50 cm",
+    "size_in": "27.6 × 19.7 in",
+    "collection": "Nature",
+    "availability": "On request",
+    "price": "Price on request",
+    "price_usd": null,
+    "slug": "delicate-bloom",
+    "hero_note": "Pastel-toned watercolor with a calm, luminous atmosphere.",
+    "image": "https://source.unsplash.com/featured/?watercolor,pastel,painting,nature&sig=12",
+    "gallery": [
+      "https://source.unsplash.com/featured/?watercolor,pastel,painting,nature&sig=12",
+      "https://source.unsplash.com/featured/?watercolor,painting,texture&sig=42",
+      "https://source.unsplash.com/featured/?pastel,painting,detail&sig=72",
+      "https://source.unsplash.com/featured/?watercolor,nature,painting&sig=102"
+    ]
+  }
+]

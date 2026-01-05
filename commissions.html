@@ -1,0 +1,142 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Commissions — Artist Name</title>
+  <meta name="description" content="Commission custom artworks for interiors. Brief form and process.">
+  <link rel="stylesheet" href="css/styles.css">
+  <script defer src="js/site.js"></script>
+</head>
+<body>
+  <header class="nav">
+    <div class="container nav-inner">
+      <a class="brand" href="index.html" aria-label="Home">
+        <strong data-i18n="brand_name">Irina Aksenova</strong>
+        <span data-i18n="brand_tagline">Contemporary Artist</span>
+      </a>
+      <nav class="menu" aria-label="Primary">
+        <a href="work.html" data-i18n="nav_work">Work</a>
+        <a href="collections.html" data-i18n="nav_collections">Collections</a>
+        <a href="about.html" data-i18n="nav_about">About</a>
+        <a href="commissions.html" data-i18n="nav_commissions">Commissions</a>
+        <a href="exhibitions.html" data-i18n="nav_exhibitions">Exhibitions</a>
+        <a href="shop.html" data-i18n="nav_shop">Shop</a>
+        <a href="contact.html" data-i18n="nav_contact">Contact</a>
+      </nav>
+      <div class="nav-controls" aria-label="Language and currency">
+        <button class="chip" id="langToggle" type="button" aria-label="Toggle language">EN / AR</button>
+        <select class="chip" id="currencySelect" aria-label="Select currency">
+          <option value="USD">USD</option>
+          <option value="EUR">EUR</option>
+          <option value="AED">AED</option>
+        </select>
+      </div>
+      <a class="btn" href="contact.html" data-i18n="cta_inquire">Inquire</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="section">
+      <div class="container two-col">
+        <div class="prose">
+          <div class="kicker" data-i18n="nav_commissions">Commissions</div>
+          <h1 style="margin:0 0 8px;font-size:34px;letter-spacing:-.02em;">Commissioned works for interiors</h1>
+          <p>Custom pieces for villas, apartments, hotels, and office lobbies. Available in curated palettes and sizes, with worldwide delivery.</p>
+
+          <h2>Process</h2>
+          <ul>
+            <li><strong>Brief</strong> — references, sizes, palette, location</li>
+            <li><strong>Proposal</strong> — concept + quote + timeline</li>
+            <li><strong>Production</strong> — studio updates on milestones</li>
+            <li><strong>Delivery</strong> — insured shipping; installation guidance</li>
+          </ul>
+
+          <h2>Typical timeline</h2>
+          <p>2–8 weeks depending on scale and complexity. Rush options may be available.</p>
+        </div>
+
+        <form class="form" action="https://formspree.io/f/your-id" method="POST">
+          <div class="kicker">Commission brief</div>
+
+          <div class="field">
+            <label>Full name / Company</label>
+            <input name="name" required placeholder="Your name or company">
+          </div>
+
+          <div class="grid cols-2">
+            <div class="field">
+              <label>Country / City</label>
+              <input name="location" placeholder="Dubai / London / New York">
+            </div>
+            <div class="field">
+              <label>Intended space</label>
+              <select name="space">
+                <option>Home</option>
+                <option>Hospitality</option>
+                <option>Office</option>
+                <option>Gallery</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="grid cols-2">
+            <div class="field">
+              <label>Preferred size</label>
+              <input name="size" placeholder="e.g., 160 × 120 cm">
+            </div>
+            <div class="field">
+              <label>Budget range</label>
+              <select name="budget">
+                <option>Under $3,000</option>
+                <option>$3,000–$8,000</option>
+                <option>$8,000–$20,000</option>
+                <option>$20,000+</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="field">
+            <label>Deadline</label>
+            <input name="deadline" placeholder="Optional">
+          </div>
+
+          <div class="field">
+            <label>References / notes</label>
+            <textarea name="notes" placeholder="Tell me about the project, palette, and any references. You can also email images to info@irinaaksenova.art."></textarea>
+          </div>
+
+          <button class="btn primary" type="submit">Submit brief</button>
+          <p class="small" style="margin-top:10px;">Form uses Formspree (replace <em>your-id</em>) or switch to your backend.</p>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <hr class="hr">
+  <footer class="footer">
+    <div class="container footer-row">
+      <div>
+        <div><strong style="letter-spacing:.12em;text-transform:uppercase;font-size:12px;">Irina Aksenova</strong></div>
+        <div class="small">Studio inquiries: <a id="inquiryMail" href="mailto:info@irinaaksenova.art">info@irinaaksenova.art</a> • WhatsApp: +7 903 307 61 40</div>
+      </div>
+      <div class="small">
+        <a href="shipping.html">Shipping & Returns</a> •
+        <a href="authenticity.html">Authenticity</a> •
+        <a href="privacy.html">Privacy</a>
+      </div>
+    </div>
+  
+        <div class="footer-note">
+          <p class="small">
+            <span data-i18n="footer_location">Based in Kazan, Russia.</span>
+            <span> • </span>
+            <span data-i18n="footer_dubai_rep">Dubai representative available for the Middle East.</span>
+            <span> • </span>
+            <a href="tel:+79033076140">+7 903 307 61 40</a>
+          </p>
+        </div>
+        </footer>
+</body>
+</html>

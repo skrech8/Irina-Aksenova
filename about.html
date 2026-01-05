@@ -1,0 +1,91 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>About — Artist Name</title>
+  <meta name="description" content="Artist bio and statement. Contemporary artist from Kazan.">
+  <link rel="stylesheet" href="css/styles.css">
+  <script defer src="js/site.js"></script>
+</head>
+<body>
+  <header class="nav">
+    <div class="container nav-inner">
+      <a class="brand" href="index.html" aria-label="Home">
+        <strong data-i18n="brand_name">Irina Aksenova</strong>
+        <span data-i18n="brand_tagline">Contemporary Artist</span>
+      </a>
+      <nav class="menu" aria-label="Primary">
+        <a href="work.html" data-i18n="nav_work">Work</a>
+        <a href="collections.html" data-i18n="nav_collections">Collections</a>
+        <a href="about.html" data-i18n="nav_about">About</a>
+        <a href="commissions.html" data-i18n="nav_commissions">Commissions</a>
+        <a href="exhibitions.html" data-i18n="nav_exhibitions">Exhibitions</a>
+        <a href="shop.html" data-i18n="nav_shop">Shop</a>
+        <a href="contact.html" data-i18n="nav_contact">Contact</a>
+      </nav>
+      <div class="nav-controls" aria-label="Language and currency">
+        <button class="chip" id="langToggle" type="button" aria-label="Toggle language">EN / AR</button>
+        <select class="chip" id="currencySelect" aria-label="Select currency">
+          <option value="USD">USD</option>
+          <option value="EUR">EUR</option>
+          <option value="AED">AED</option>
+        </select>
+      </div>
+      <a class="btn" href="contact.html" data-i18n="cta_inquire">Inquire</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="section">
+      <div class="container two-col">
+        <div class="card" style="box-shadow:var(--shadow);">
+          <div class="thumb" style="aspect-ratio: 4/5;"></div>
+          <div class="card-body">
+            <div class="meta"><span>Portrait placeholder</span><span class="badge">Replace with artist photo</span></div>
+          </div>
+        </div>
+
+        <div class="prose">
+          <div class="kicker" data-i18n="nav_about">About</div>
+          <h1 style="margin:0 0 8px;font-size:34px;letter-spacing:-.02em;" data-i18n="about_title">Artist bio</h1>
+          <p data-i18n="about_p1">Irina Aksenova (b. 1958, Kazan) is a contemporary artist known for delicate watercolor and pastel-toned works—portraits and nature studies that balance softness with precision.</p>
+          <p data-i18n="about_p2">Her works have been exhibited in Germany, Austria, Russia, and internationally. The oeuvre includes more than 200 artworks across watercolor, mixed media, and works on paper.</p>
+          <p data-i18n="about_p3">Original artworks are available for collectors worldwide. Commissions are considered for residential and hospitality spaces, with a Dubai representative available for the Middle East.</p>
+
+          <div class="meta" style="margin-top:18px;">
+            <span class="badge" data-i18n="about_badge">Availability</span>
+            <span data-i18n="about_badge_text">Worldwide shipping • Certificate of authenticity</span>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <hr class="hr">
+  <footer class="footer">
+    <div class="container footer-row">
+      <div>
+        <div><strong style="letter-spacing:.12em;text-transform:uppercase;font-size:12px;">Irina Aksenova</strong></div>
+        <div class="small">Studio inquiries: <a id="inquiryMail" href="mailto:info@irinaaksenova.art">info@irinaaksenova.art</a> • WhatsApp: +7 903 307 61 40</div>
+      </div>
+      <div class="small">
+        <a href="shipping.html">Shipping & Returns</a> •
+        <a href="authenticity.html">Authenticity</a> •
+        <a href="privacy.html">Privacy</a>
+      </div>
+    </div>
+  
+        <div class="footer-note">
+          <p class="small">
+            <span data-i18n="footer_location">Based in Kazan, Russia.</span>
+            <span> • </span>
+            <span data-i18n="footer_dubai_rep">Dubai representative available for the Middle East.</span>
+            <span> • </span>
+            <a href="tel:+79033076140">+7 903 307 61 40</a>
+          </p>
+        </div>
+        </footer>
+</body>
+</html>
